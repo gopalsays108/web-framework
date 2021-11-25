@@ -1,0 +1,183 @@
+
+.topnav img{
+  margin-top: 25px;
+  margin-left: 230px;
+  width: 100px;
+  height: 30px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+  background-color: #157bcf;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a.active {
+  margin: 10px 10px 10px 10px;
+  background-color: white;
+  color: #157bcf;
+  float:right;
+  margin-right: 150px;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  border: none;
+  margin-bottom: 10px;
+  margin-right: 16px;
+  font-size: 17px;
+  margin-left: 20px;
+  width: 500px;
+}
+
+.topnav a.active2 {
+  margin: 10px 10px 10px 10px;
+  background-color: white;
+  color: #157bcf;
+  float:right;
+}
+
+ul.example {
+  background-color: white;
+        margin:0;
+        padding:0;    
+        font-size:0; /*this gets rid of the gaps between the items*/
+        width: 100%;
+        background-repeat:no-repeat;    
+        background-position: top right;
+    }
+    ul.example li {
+        display:inline-block; /*this puts them all in a row*/
+        margin:0;
+    }
+        
+    }
+
+    ul.example li a {
+        font-size:16px; /*important to set this, as the ul has 0 height text*/
+        display:block;
+        height:61px;
+        line-height:61px;
+        text-align:center;
+        width:100px;
+    }
+
+    #hover:hover {
+  background-color: black;
+  color: white;
+}
+
+.img-nav1{
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+.img-nav2{
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.img-nav3{
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+.img-nav4{
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+.img-nav5{
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+ul.nav-name {
+  margin-left: 45px;
+  display: flex;
+  list-style: none;
+}
+
+
+li.nav-name1{
+  margin-left: 100px;
+}
+
+li.nav-name2{
+  margin-left: 250px;
+}
+
+li.nav-name3{
+  margin-left: 200px;
+}
+
+li.nav-name4{
+  margin-left: 210px;
+}
+
+li.nav-name5{
+  margin-left: 210px;
+}
+
+.center-img img{
+  float: left;
+  margin-left: 200px;
+  width: 500px;
+  height: 450px;
+}
+
+.center-text {
+  margin-top: 150px;
+  float:right;
+  width: 500px;
+  margin-right: 200px;
+}
+
+footer {
+  width: 100%;
+  background-color: rgb(11, 11, 73);
+  margin-top: 400px;
+  position: absolute;
+}
+
+.foot-text{
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+ul.foot {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+ul.foot li a{
+  color:yellow;
+  text-decoration: none;
+}
